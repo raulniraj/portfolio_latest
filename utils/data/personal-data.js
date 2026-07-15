@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Niraj Raul",
-  profile: '/profile.png',
+  profile: 'public/image/profile.png',
   designation: "Software Developer",
   description: "I am Niraj Raul, an enthusiastic Software Development Engineer and recent MCA graduate driven by a deep passion for problem-solving and modern software development. I am a self-motivated, rapid learner who thrives on exploring new technology stacks and contributing to the open-source ecosystem. While I enjoy full-stack engineering, my core technical expertise is firmly rooted in Java, specifically in architecting scalable backend solutions with Spring Boot and designing robust REST APIs. From developing automated enterprise workflows to deploying cloud-native applications, I love transforming complex code into impactful real-world tools. Having successfully concluded my degree program, I am available to join immediately and am eager to contribute my technical drive to a forward-thinking development team.",
   email: 'raulniraj300@gmail.com',
